@@ -35,7 +35,7 @@ npm run start
 
 Swagger api documentation : 
 ```
-http://localhost:'port'/api-docs/
+http://localhost:<port>/api-docs/
 ```
 
 Now you can test api with postman !
