@@ -1,5 +1,7 @@
 # recruitment-task
 
+Requirements: <b>POSTGRESQL</b>
+
 Clone or download project:
 ```
 git clone https://github.com/neridanek/recruitment-task.git
