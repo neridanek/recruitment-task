@@ -8,7 +8,7 @@ git clone https://github.com/neridanek/recruitment-task.git
 ```
 
 
-Fill   ```.env``` variables:
+create and fill   ```.env``` variables:
 
 
 ```
