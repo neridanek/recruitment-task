@@ -28,6 +28,8 @@ cd prisma
 npx prisma generate
 cd ..
 ```
+Import mock data to generated table products
+
 Start server:
 ```
 npm run start 
